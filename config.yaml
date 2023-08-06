@@ -1,0 +1,10 @@
+articulation_rule: C:/Users/haoyangma/Desktop/practice/ChatTest/articulation/rules.xlsx
+encode_model_path: C:/Users/haoyangma/Desktop/practice/ChatTest/text2vec-base-chinese
+faiss_path: C:/Users/haoyangma/Desktop/practice/ChatTest/faiss_index
+header_and_footer:
+  header: true
+  footer: true
+context_num: 1
+chatglm6b_url: http://127.0.0.1:8000
+pdf_url: http://127.0.0.1:8081/render_html
+default_pdf: C:/Users/haoyangma/Desktop/default_pdf.pdf
